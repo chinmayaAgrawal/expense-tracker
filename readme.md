@@ -26,4 +26,4 @@
 
 ## Delpoyed
  
- To view deployed application click [here](https://git.heroku.com/expense-tracker-de.git)
+ To view deployed application click [here](https://expense-tracker-de.herokuapp.com)
